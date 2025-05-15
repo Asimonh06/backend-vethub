@@ -31,7 +31,7 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: `https://backend-vethub.vercel.app/`,
+        url: '/',
       }
     ]
   },

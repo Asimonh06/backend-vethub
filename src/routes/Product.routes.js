@@ -35,7 +35,7 @@ router.get("/", getProducts)
  *                              type: string
  *                              example: Arena para gatos
  *                          price:
- *                              type: integer
+ *                              type: number
  *                              example: 26.9
  *                          offert:
  *                              type: boolean
